@@ -96,9 +96,69 @@
 
 //Problem-10
 
-let number = 17;
-if (number % 2 === 0){
-    console.log("Even");
-}else{
-    console.log("Odd");
-}
+// let number = 17;
+// if (number % 2 === 0){
+//     console.log("Even");
+// }else{
+//     console.log("Odd");
+// }
+
+
+// Problem-11
+
+
+// let result1 = 10 + 5 * 2;
+// console.log(result1)
+
+// let result2 = (10 + 5) * 2;
+// console.log(result2)
+
+// let result3 = 20 / 4 +3 *2;
+// console.log(result3)
+
+// let result4 = 2**3 + 5;
+// console.log(result4)
+
+// let result5 = (8+2)/5*3;
+// console.log(result5)
+
+// Problem-12
+
+// let result = (10 + 20)*5/3;
+// console.log(result)
+
+
+// Problem-13
+
+
+console.log((((15+5)*3)-10)/4)
+
+
+// Problem-14
+
+
+// let bankAccount = 5000;
+//  bankAccount += 15000; // recive salary
+//  bankAccount -= 8000;  // pay rent
+//  bankAccount += 5000;  //get bonus
+//  bankAccount -= 3000;  //shopping
+//  console.log(bankAccount)
+
+
+// Problem-15
+
+//  let investmentAmount = 10000;
+//  investmentAmount *= 1.10; // 10% return
+//  investmentAmount *= 1.10; //2nd another 10% return
+//  investmentAmount *= 1.10; //3rd year 10% return 
+//  console.log(investmentAmount)
+
+// Problem-16
+
+let x = 10;
+let y = x++;
+console.log("x:",x,"y:",y)
+
+// let x = 10;
+// let y = ++x;
+// console.log("x:",x,"y:",y)
