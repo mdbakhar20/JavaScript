@@ -131,7 +131,7 @@
 // Problem-13
 
 
-console.log((((15+5)*3)-10)/4)
+// console.log((((15+5)*3)-10)/4)
 
 
 // Problem-14
@@ -155,9 +155,9 @@ console.log((((15+5)*3)-10)/4)
 
 // Problem-16
 
-let x = 10;
-let y = x++;
-console.log("x:",x,"y:",y)
+// let x = 10;
+// let y = x++;
+// console.log("x:",x,"y:",y)
 
 // let x = 10;
 // let y = ++x;

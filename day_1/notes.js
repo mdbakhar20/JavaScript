@@ -99,18 +99,18 @@
 // // vs.
 // score += 50; // 150 (shorter!)
 
-let balance = 1000;
-balance -= 200; // Same as: balance = balance - 200
-console.log(balance); // 800
+// let balance = 1000;
+// balance -= 200; // Same as: balance = balance - 200
+// console.log(balance); // 800
 
-//Accumulating a total
-let total = 0;
-total += 100; // Add first item
-total += 250; // Add second item
-total += 75; // Add third item
-console.log(total); // 425
-// Doubling a value multiple times
-let value = 5;
-value *= 2; // 10
-value *= 2; // 20
-value *= 2; // 40
+// //Accumulating a total
+// let total = 0;
+// total += 100; // Add first item
+// total += 250; // Add second item
+// total += 75; // Add third item
+// console.log(total); // 425
+// // Doubling a value multiple times
+// let value = 5;
+// value *= 2; // 10
+// value *= 2; // 20
+// value *= 2; // 40
