@@ -67,5 +67,5 @@
 // console.log(mainHeading)
 
 
-let para = document.querySelector(".description");
-console.log(para)
+// let para = document.querySelector(".description");
+// console.log(para)

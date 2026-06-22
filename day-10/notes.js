@@ -56,3 +56,5 @@
 
 // let allOldImages = document.querySelectorAll(".oldImg");
 // console.log(allOldImages);
+
+
